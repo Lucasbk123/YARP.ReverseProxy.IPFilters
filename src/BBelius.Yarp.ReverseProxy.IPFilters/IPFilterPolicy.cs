@@ -1,5 +1,5 @@
 ﻿using System.Net;
-
+using BBelius.Yarp.ReverseProxy.IPFilters.Enums;
 using IPNetwork = Microsoft.AspNetCore.HttpOverrides.IPNetwork;
 
 namespace BBelius.Yarp.ReverseProxy.IPFilters;

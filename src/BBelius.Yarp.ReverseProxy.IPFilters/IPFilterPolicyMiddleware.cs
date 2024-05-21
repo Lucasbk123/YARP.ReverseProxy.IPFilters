@@ -1,6 +1,7 @@
 ﻿using System.Diagnostics.Contracts;
 using System.Net;
-
+using BBelius.Yarp.ReverseProxy.IPFilters.Enums;
+using BBelius.Yarp.ReverseProxy.IPFilters.Exceptions;
 using Microsoft.AspNetCore.Http;
 using Microsoft.Extensions.Logging;
 
